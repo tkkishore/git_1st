@@ -1,2 +1,2 @@
 # git_1st
-This is "3rd job" : Triggered at %Date% : %Time% "
+This is 1st git job
