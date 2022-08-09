@@ -1,2 +1,2 @@
 # git_1st
-This is 1st git job
+echo "Sreeni first git job : Triggered at %Date% : %Time% "
